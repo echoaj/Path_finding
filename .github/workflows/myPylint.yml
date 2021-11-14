@@ -1,4 +1,4 @@
-name: Pylint
+name: echoaj's pylinter
 
 on: [push]
 
