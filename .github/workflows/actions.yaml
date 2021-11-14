@@ -1,4 +1,4 @@
-name: GitHub Actions Demo
+name: Actions Coding Convensions
 on: [push]
 jobs:
   Actions-Practice:
